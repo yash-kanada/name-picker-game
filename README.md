@@ -1,5 +1,5 @@
-1) clone your project from GitHub to your device : <br />
-git clone project_link
+<h3>1) clone your project from GitHub to your device :</h3>
+git clone https://github.com/yash-kanada/name-picker-game.git
 
-2) In terminal : <br />
+<h3>2) In terminal : </h3> 
 npm run dev
